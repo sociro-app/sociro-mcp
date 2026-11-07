@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.sociro-app/sociro-mcp",
+  "name": "com.sociro/mcp",
   "title": "Sociro",
   "description": "Schedule, publish, edit and plan social media posts on your Sociro accounts from your AI assistant.",
   "version": "0.8.0",
